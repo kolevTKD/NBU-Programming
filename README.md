@@ -1,2 +1,2 @@
 # NBU-Programming
- A repo of my study @New Bulgarina University
+ A repo of my study @New Bulgarian University
